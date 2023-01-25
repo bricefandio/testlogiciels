@@ -15,6 +15,7 @@ public class ProductServiceTest {
     private Database db = null;
     private ProductService productService;
 
+
     private int countBefore = 0;
 
     @Before
