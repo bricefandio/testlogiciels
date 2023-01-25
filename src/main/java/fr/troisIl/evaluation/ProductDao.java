@@ -1,4 +1,4 @@
-package fr.troisIl.evaluation;
+package fr.3il.evaluation;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
